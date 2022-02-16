@@ -1,0 +1,21 @@
+{
+  "name": "craiglist_rss",
+  "version": "1.0.0",
+  "description": "Local RSS serve that pulls data from Craiglist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect --experimental-modules src/index.mjs"
+  },
+  "author": "Vladimir M",
+  "license": "MIT",
+  "dependencies": {
+    "@koa/cors": "^3.1.0",
+    "fetch": "^1.1.0",
+    "jsdom": "^19.0.0",
+    "koa": "^2.13.4",
+    "node-fetch": "^3.2.0",
+    "nodemon": "^2.0.15",
+    "rss": "^1.2.2"
+  }
+}
