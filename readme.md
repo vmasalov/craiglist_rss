@@ -2,8 +2,7 @@ Server to provide missing RSS for craiglist.org
 =
 
 Developed with Koa server.
-Start with
-`npm start` command.
+Start with `npm start` or `yarn start` command.
 
 It will listen `9999` port on local host.
 
