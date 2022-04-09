@@ -8,6 +8,6 @@ It runs on `http://localhost:9999`, point your RSS client to the IP or localhost
 Setup
 ==
 
- 1. Replace FEED_URL with proper url.
+ 1. Replace FEED_URL with proper URL. Simply search for smth on craiglist and copy/paste that URL
  2. Run `npm start` or `yarn start` command
  3. Open in browser `http://localhost:9999` 
